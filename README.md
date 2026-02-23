@@ -1,8 +1,7 @@
 Rashied Nabibaks ☺️
 <ul>
-<li>http://map.nabibaks.org</li>
-<li>http://zoek.nabibaks.org</li>
-<li>http://dork.nabibaks.org</li>
-<li>http://mail.nabibaks.org</li>	
+  <li><a href="http://map.nabibaks.org" target="_blank">Map</a></li>
+  <li><a href="http://zoek.nabibaks.org" target="_blank">Zoek</a></li>
+  <li><a href="http://dork.nabibaks.org" target="_blank">Dork</a></li>
+  <li><a href="http://mail.nabibaks.org" target="_blank">Temp Mail</a></li>
 </ul>
-
